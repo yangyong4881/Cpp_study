@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/background.png</file>
+        <file>image/close-hover.png</file>
+        <file>image/close-normal.png</file>
+        <file>image/normalqualityitem.png</file>
+        <file>image/nowatermarkitem.png</file>
+        <file>image/watermarkitemclick.png</file>
+        <file>image/watermarkitemhover.png</file>
+        <file>main.qss</file>
+        <file>QT_lesson4.qm</file>
+    </qresource>
+</RCC>

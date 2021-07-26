@@ -1,0 +1,126 @@
+QDialog{
+    background-color: white;
+
+    background-repeat: no-repeat
+}
+QLabel#label_1
+{
+    color:blue;
+    font: 14pt
+}
+QComboBox#comboBox
+{
+    background-color: white;
+}
+
+QComboBox#comboBox_2
+{
+    background-color: white;
+}
+
+QPushButton#pushButton_3
+{
+    color : white;
+    background-color : blue;
+    font: 12pt
+}
+QPushButton#pushButton_7
+{
+    background-color: white;
+}
+QLineEdit#lineEdit_2
+{
+    background-color: white;
+}
+QPushButton#pushButton
+{
+  border-image:url(:/image/normalqualityitem.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_4
+{
+  border-image:url(:/image/normalqualityitem.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_5
+{
+  border-image:url(:/image/normalqualityitem.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_6
+{
+  border-image:url(:/image/normalqualityitem.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_2
+{
+  border-image:url(:/image/nowatermarkitem.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#clostBtn
+{
+  border-image:url(:/image/close-normal.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#clostBtn:hover
+{
+  border-image:url(:/image/close-hover.png);
+}
+
+QPushButton#pushButton_10
+{
+  border-image:url(:/image/background.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_10:hover
+{
+  border-image:url(:/image/watermarkitemhover.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+
+QPushButton#pushButton_10:focus
+{
+  border-image:url(:/image/watermarkitemclick.png);
+}
+
+QPushButton#pushButton_9
+{
+   border-image:url(:/image/background.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_9:hover
+{
+  border-image:url(:/image/watermarkitemhover.png);
+   border-width:0px 0px 0px 0px;
+   background-repeat:none;
+   background-origin: content;
+}
+QPushButton#pushButton_9:focus
+{
+  border-image:url(:/image/watermarkitemclick.png);
+}
+
+QPushButton#clostBtn:hover
+{
+  border-image:url(:/image/close-hover.png);
+}
+
+
